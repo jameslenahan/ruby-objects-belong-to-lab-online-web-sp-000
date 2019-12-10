@@ -1,3 +1,3 @@
 class artist
-  dattr_accessor :name
+  attr_accessor :name
 end
