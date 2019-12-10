@@ -1,5 +1,3 @@
 class artist
-  def initialize(artist)
-    @artist = artist
-  end
+  dattr_accessor :name
 end
